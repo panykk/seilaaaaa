@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }).addTo(map);
 
   var greenIcon = L.icon({
-    iconUrl: 'https://img.freepik.com/premium-psd/cute-golden-retriever-dog-puppy-breed-isolated-transparent-background_886329-743.jpg',
+    iconUrl: 'https://pngfre.com/wp-content/uploads/dog-poster.png',
  
     iconSize:     [80, 60], // size of the icon
     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
